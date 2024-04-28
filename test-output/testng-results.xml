@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-11T16:23:32 IST" name="DemoSuite" finished-at="2022-11-11T16:26:31 IST" duration-ms="179531">
+    <groups>
+    </groups>
+    <test started-at="2022-11-11T16:23:32 IST" name="DemoTest" finished-at="2022-11-11T16:26:31 IST" duration-ms="179531">
+      <class name="Demofw.Demofw.MainClass">
+        <test-method signature="demoqa()[pri:0, instance:Demofw.Demofw.MainClass@8f4ea7c]" started-at="2022-11-11T16:23:32 IST" name="demoqa" finished-at="2022-11-11T16:23:56 IST" duration-ms="23814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoqa -->
+        <test-method signature="orange()[pri:0, instance:Demofw.Demofw.MainClass@8f4ea7c]" started-at="2022-11-11T16:23:56 IST" name="orange" finished-at="2022-11-11T16:26:31 IST" duration-ms="155368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orange -->
+      </class> <!-- Demofw.Demofw.MainClass -->
+    </test> <!-- DemoTest -->
+  </suite> <!-- DemoSuite -->
+</testng-results>
